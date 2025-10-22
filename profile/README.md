@@ -14,6 +14,15 @@
 
 <h1 align="center">Welcome to Hunan University FinTech Association (HFT) 👋</h1>
 
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Fintech-blue" alt="Fintech Badge">
+  <img src="https://img.shields.io/badge/Specialization-AI%20for%20Finance-green" alt="AI for Finance Badge">
+  <img src="https://img.shields.io/badge/Research-Quantitative%20Investing-red" alt="Quantitative Investing Badge">
+  <img src="https://img.shields.io/badge/Community-Academic%20Exchange-purple" alt="Academic Exchange Badge">
+</p>
+
 <p align="left">
   The Hunan University Financial Technology Association (HFT) was established in August 2024 as a dynamic campus academic organization dedicated to interdisciplinary studies at the intersection of Finance and AI.
 </p>
