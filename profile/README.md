@@ -15,7 +15,7 @@
 <h1 align="center">Welcome to Hunan University FinTech Association (HFT) 👋</h1>
 
 <p align="left">
-  The Hunan University Financial Technology Association (HFT) was established in August 2024 as a dynamic campus academic organization dedicated to interdisciplinary studies at the intersection of finance and technology.
+  The Hunan University Financial Technology Association (HFT) was established in August 2024 as a dynamic campus academic organization dedicated to interdisciplinary studies at the intersection of Finance and AI
 </p>
 
 <p align="left">
