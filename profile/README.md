@@ -35,7 +35,7 @@
   Since the launch of our official WeChat account, we have successfully cultivated a thriving community, garnering over 4,000 dedicated followers. We extend our sincere gratitude to all who have supported our growth and continue to contribute to our collective success.
 </p>
 
-<h3 align="center">Our Focus Areas</h2>
+<h2 align="center">Our Focus Areas</h2>
 
 <p align="left">
   <ul>
@@ -47,7 +47,7 @@
   </ul>
 </p>
 
-<h3 align="center">Connect With Us</h2>
+<h2 align="center">Connect With Us</h2>
 
 <p align="left">
   We are actively seeking collaborators, researchers, and students who are passionate about the future of finance and technology. If you are interested in our research initiatives, upcoming activities, or wish to contribute to our projects, please feel free to connect with us. Together, we can build impactful solutions and advance knowledge in this rapidly evolving domain.
